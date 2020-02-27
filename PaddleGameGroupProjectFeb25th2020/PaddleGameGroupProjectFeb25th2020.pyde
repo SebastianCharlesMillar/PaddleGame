@@ -39,7 +39,7 @@ def setup():
             if word_num == len(word):
                 word_num = 0
     ball = BallClass.Ball(300, 445)
-    img = loadImage("BlackBackground8.png")
+    img = loadImage("BlackBackground9.png")
     #Bricks[10].erase()
       
     
